@@ -34,9 +34,9 @@ A food delivery user application where customers can browse products, manage the
 
 ## Technology Stack (Add yours here)
 
-- Mobile Framework: (e.g., Flutter / Android Studio)
-- Backend: (e.g., Firebase / Node.js / PHP)
-- Database: (e.g., Firestore / MySQL / SQLite)
+- Mobile Framework: (Flutter / Android Studio)
+- Backend: Firebase
+- Database: Supabase
 
 ---
 
