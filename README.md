@@ -1,16 +1,54 @@
-# food_delivery_user
+# Food Delivery User App
 
-A new Flutter project.
+A food delivery user application where customers can browse products, manage their cart, place orders, and track order history. The app also supports invoice generation, order management, repeat ordering, and a loyalty-based reward system.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse food products and categories  
+- Add/remove items from cart  
+- Confirm or cancel orders  
+- View order history  
+- View invoices for each order  
+- Repeat previous orders with one click  
+- Loyalty program with membership tiers:
+  - Bronze
+  - Silver
+  - Gold
+  - Platinum  
+- Discount benefits based on membership level  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Core Functionality
+
+- User-friendly food browsing interface  
+- Secure order placement system  
+- Dynamic cart management  
+- Order tracking and history management  
+- Automated invoice generation  
+- Reward-based discount system for loyal customers  
+
+---
+
+## Technology Stack (Add yours here)
+
+- Mobile Framework: (e.g., Flutter / Android Studio)
+- Backend: (e.g., Firebase / Node.js / PHP)
+- Database: (e.g., Firestore / MySQL / SQLite)
+
+---
+
+## Project Purpose
+
+This project is designed to simulate a real-world food delivery system focusing on user experience, order lifecycle management, and customer loyalty systems.
+
+---
+
+## Future Improvements
+
+- Real-time order tracking  
+- Online payment integration  
+- Push notifications  
+- Restaurant ratings and reviews  
